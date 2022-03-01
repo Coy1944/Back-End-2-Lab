@@ -1,3 +1,4 @@
+//make sure to save both each time
 const houses = require('./db.json')
 let globalId = 4
 

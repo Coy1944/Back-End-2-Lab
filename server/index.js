@@ -1,3 +1,4 @@
+// make sure to save both
 const express = require('express')
 const cors = require('cors')
 
